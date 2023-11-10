@@ -1,0 +1,3 @@
+C:\Users\fede_\OneDrive\Strumenti\ElevenLabsBot\obj\Debug\ElevenLabsBotProject.njsproj.AssemblyReference.cache
+C:\Users\fede_\OneDrive\Strumenti\ElevenLabsBot\obj\Debug\ElevenLabsBotProject.njsproj.CoreCompileInputs.cache
+C:\Users\fede_\OneDrive\Strumenti\ElevenLabsBot\bin\Microsoft.NodejsTools.WebRole.dll
