@@ -20,7 +20,6 @@ The following environment variables are required for the bot to function:
 - `BOT_TOKEN`: Your Discord bot token.
 - `CLIENT_ID`: Your Discord client ID.
 - `GUILD_ID`: Your Discord server ID.
-- `ELEVEN_API_KEY`: Your API key for Eleven Labs.
 
 ## 🎮 Usage
 
