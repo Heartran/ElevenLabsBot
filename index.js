@@ -111,7 +111,6 @@ client.on('ready', async () => {
 });
 
 // Ascolta le interazioni dei comandi slash
-
 client.on('interactionCreate', async (interaction) => {
     console.log(`Ricevuta interazione: ${interaction.commandName}`);
     // Controlla se l'interazione è un comando slash

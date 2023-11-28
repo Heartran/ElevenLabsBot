@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fede_\\OneDrive\\Strumenti\\ElevenLabsBot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E109F0A-825B-48C0-8F09-9D6D763F8FD8}|ElevenLabsBotProject.njsproj|C:\\Users\\fede_\\OneDrive\\Strumenti\\ElevenLabsBot\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3E109F0A-825B-48C0-8F09-9D6D763F8FD8}|ElevenLabsBotProject.njsproj|solutionrelative:index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\fede_\\OneDrive\\Strumenti\\ElevenLabsBot\\index.js",
+              "RelativeDocumentMoniker": "index.js",
+              "ToolTip": "C:\\Users\\fede_\\OneDrive\\Strumenti\\ElevenLabsBot\\index.js",
+              "RelativeToolTip": "index.js",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAAAGAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2023-11-10T15:50:45.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
